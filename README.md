@@ -121,18 +121,6 @@ To run all tests:
 npm run test
 ```
 
-## Deployment
-
-The **My Mood** platform is deployed as follows:
-
-- **Railway**: Hosting the **frontend**, **backend**, and **database**.
-- **Cloudflare**: Providing additional security and optimization.
-- **Web App Domain**: [https://my-mood.com.ar/](https://my-mood.com.ar/)
-
-```
-[User] → [Cloudflare] → [Railway (Frontend/API/DB)]
-```
-
 ## Documentation
 
 The project includes a variety of documentation:
